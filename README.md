@@ -53,3 +53,7 @@ This repository contains datasets and resources related to the ADBench project, 
 | wine               | 129       | 13       | 10        | 7.75%     | Chemistry     |
 | WPBC               | 198       | 33       | 47        | 23.74%    | Healthcare    |
 | yeast              | 1,484     | 8        | 507       | 34.16%    | Biology       |
+
+---
+## Reference
+- [ADBench: Anomaly Detection Benchmark](https://arxiv.org/abs/2206.09426)
